@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Source materials (not needed for website)
+materials/
+
+# Empty folders
+demos/
